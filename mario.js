@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $(document).keydown(function(event){
-  	 event.preventDefault();
+  	 event.originalEvent.preventDefault()
   	 console.log(event);
   	if(event.which == 38)
   	{
