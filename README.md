@@ -1,1 +1,2 @@
-[Mario](mario.html)
+
+[Registration Page](reg.html)
