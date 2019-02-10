@@ -43,6 +43,11 @@ html{
 	font-size: 1.2em;
 }
 
+.icon{
+	height: 5vh;
+	width: 5vh;
+}
+
 input{
 	color: white;
 	outline: none;
