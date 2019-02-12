@@ -39,7 +39,7 @@ html,body{
 }
 
 .castle{
-	max-height: 40vh;
+	max-height: 45vh;
 	max-width: 27vw;
 	align-self: flex-end;
 }
