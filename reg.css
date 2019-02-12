@@ -5,6 +5,10 @@ html{
 	background: url("bg.jpg");
 }
 
+html,body{
+	margin:0;
+}
+
 .wrapper{
 	height: 100%;
 	width: 100%;
@@ -23,6 +27,7 @@ html{
 	min-height: 10vh;
 	flex: 0 1 50%;
 	border-bottom: 2px solid #eeeeee;
+	max-height: 90vh;
 }
 
 
